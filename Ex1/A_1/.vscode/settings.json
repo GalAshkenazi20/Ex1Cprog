@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "armor.h": "c",
+        "shiny.h": "c",
+        "mathlib.h": "c"
+    }
+}
